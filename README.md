@@ -14,3 +14,4 @@ https://explorer.testnet.near.org/transactions/GbAWNJXbPZHQWGNsx2suzed9khhqmMQWY
 ![image](https://user-images.githubusercontent.com/74310970/163677155-f701ba91-6fa4-4629-9d88-0d269339879d.png)
 
 //dev-1650113532382-39313657732782
+//https://app.patika.dev/gecginserhat
